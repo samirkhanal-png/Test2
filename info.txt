@@ -1,0 +1,9 @@
+Create the branch
+git branch "branchName"
+
+select the branch
+git checkout branchName
+
+Branch has the same number of commits as the main branch + its own changes
+
+merge the changes made in the branch in the main branch
