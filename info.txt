@@ -6,4 +6,7 @@ git checkout branchName
 
 Branch has the same number of commits as the main branch + its own changes
 
-merge the changes made in the branch in the main branch
+merge the changes made in the branch in the master branch
+
+merge origin/branchName(branch from which changes should be added)
+
